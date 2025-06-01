@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "test1.sln"
+    "dotnet.defaultSolution": "3d-Game-in-Unity-.sln"
 }
